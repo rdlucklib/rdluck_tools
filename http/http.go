@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 	// "fmt"
-	"rdluck_tools/log"
+	"github.com/rdlucklib/rdluck_tools/log"
 )
 
 var Log *log.Log
