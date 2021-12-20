@@ -10,8 +10,8 @@ import (
 	// "net/url"
 	// "sort"
 	"strings"
-	"rdluck_tools/crypt"
-	"rdluck_tools/http"
+	"github.com/rdlucklib/rdluck_tools/crypt"
+	"github.com/rdlucklib/rdluck_tools/http"
 )
 
 //签名加密方式

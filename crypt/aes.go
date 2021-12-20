@@ -8,7 +8,7 @@ import (
 	// "encoding/base64"
 	// "fmt"
 	// "io"
-	"rdluck_tools/common"
+	"github.com/rdlucklib/rdluck_tools/common"
 )
 
 func PKCS5Padding(ciphertext []byte, blockSize int) []byte {

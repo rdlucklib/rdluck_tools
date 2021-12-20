@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"encoding/xml"
-	"rdluck_tools/nethttp"
-	"rdluck_tools/str"
-	"rdluck_tools/uuid"
+	"github.com/rdlucklib/rdluck_tools/nethttp"
+	"github.com/rdlucklib/rdluck_tools/str"
+	"github.com/rdlucklib/rdluck_tools/uuid"
 	"runtime"
 	"strconv"
 
