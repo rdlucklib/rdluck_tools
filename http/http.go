@@ -3,12 +3,10 @@ package http
 import (
 	"io/ioutil"
 	"net/http"
-	// "net/url"
 	"crypto/tls"
 	"strings"
 	"time"
-	// "fmt"
-	"github.com/rdlucklib/github.com/rdlucklib/rdluck_tools/log"
+	"github.com/rdlucklib/rdluck_tools/log"
 )
 
 var Log *log.Log
